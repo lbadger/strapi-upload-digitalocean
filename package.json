@@ -60,7 +60,7 @@
   "name": "strapi-upload-digitalocean",
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "git://github.com/lbadger/strapi-upload-digitalocaen.git"
   },
   "strapi": {
     "isProvider": true
