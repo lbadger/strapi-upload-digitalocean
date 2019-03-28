@@ -30,7 +30,8 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "aws-sdk": "^2.199.0"
+    "aws-sdk": "^2.199.0",
+    "lodash": "^4.17.10"
   },
   "deprecated": false,
   "description": "DigitalOcean provider for strapi upload",
