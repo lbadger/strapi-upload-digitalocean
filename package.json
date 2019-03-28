@@ -18,7 +18,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/strapi-upload-digitalocean/-/strapi-upload-digitalocean-3.0.0-alpha.25.2.tgz",
+  "_resolved": "https://registry.npmjs.org/strapi-upload-digitalocean/-/strapi-upload-digitalocean-3.0.0-alpha.25.3.tgz",
   "_where": "/usr/src/api/strapi-app",
   "author": {
     "name": "Strapi team",
@@ -66,5 +66,5 @@
   "strapi": {
     "isProvider": true
   },
-  "version": "3.0.0-alpha.25.2"
+  "version": "3.0.0-alpha.25.3"
 }
